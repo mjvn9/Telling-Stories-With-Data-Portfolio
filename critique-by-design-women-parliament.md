@@ -3,7 +3,8 @@
 
 ## Step one: the visualization
 
-_The original visualization "Seats held by women in national parliaments and governments" can be found here.
+The original visualization "Seats held by women in national parliaments and governments" can be found below:
+
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f03a052f-bd00-4b51-8d80-d1716fcb05e4" />
 
 I chose this visualization because I’m really interested in how voices show up in policy spaces. As someone studying public policy, I think a lot about who gets to participate in shaping laws and institutions, and who doesn’t. Women are still underrepresented across many fields, especially in political leadership, so I wanted to look at whether there has been progress and how that progress differs across countries.
@@ -28,10 +29,9 @@ I began by sketched out a few ideas on paper, such as the one below.
 
 My first goal was to break the information into **two visuals** that complemented each other instead of one overly busy one:
 
-1. **A simple line chart** that focuses on only a handful of countries  
-   (top performers, lowest performers, and the EU average).
+1. **A simple line chart** that focuses on only a handful of countries (top performers, lowest performers, and the EU average).
 
-2. **A bar chart** showing where those same countries stand today.
+2. **A bar chart** showing where those same countries stand as of the latest year of data, 2019.
 
 Another goal was to preserve the time element, but also give viewers a snapshot that clearly shows the gap between leaders and laggards. I also experimented with grouping colors by meaning (greens for high representation, oranges for low) to give the visuals a more narrative feel.
 
@@ -42,16 +42,14 @@ Another goal was to preserve the time element, but also give viewers a snapshot 
 I shared my drawn wireframe with two classmates and asked the following questions.
  
 
-| Question | Interview 1 (MSPPM student) | Interview 2 (MISM student) |
+| Question | Interview 1 (MSPPM student with an information technology background) | Interview 2 (MISM student with a data science background) |
 |----------|-------------------------------|------------------------------|
-| What do you think this is? | Said the second sketch looked like a revised or simplified version of the original. | Immediately recognized the first as a “change over time” chart. |
-| What is it telling you? | Thought the title aligned with the visuals and could follow the trends easily. | Understood it as showing women in government across various countries. |
-| Anything confusing? | Noted that the color differences were unclear in my sketch. | Didn’t understand what the colors were supposed to represent. |
-| Intended audience? | Said UN or development orgs. | Said government or policymaking audiences. |
-| Anything to change? | Suggested making the title more specific. | Recommended using color more deliberately to signal meaning. |
+| What do you think this is? | Said the second sketch looked like a revised or simplified version of the original | Immediately recognized the first as a “change over time” chart.|
+| What is it telling you? | Thought the title aligned with the visuals and could follow the trends easily | Understood it as showing women in government across various countries |
+| Anything confusing? | Noted that the color differences were unclear in my sketch | Didn’t understand what the colors were supposed to represent |
+| Intended audience? | Said UN or development orgs | Said government or policymaking audiences |
+| Anything to change? | Suggested making the title more specific | Recommended using color more deliberately to signal meaning |
 
-
-Synthesis: 
 
 The main takeaway was that the concept of splitting the visualization into two charts worked well. Both people understood what I was trying to show without much explanation. However, both mentioned color confusion, which made me rethink how intentional my palette needed to be. Their feedback reinforced the importance of consistency (greens for high performers, oranges for low performers) and clearer labeling. It also pushed me to tighten the title so the message felt more explicit and easier to grasp at a glance.
 
