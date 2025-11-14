@@ -15,11 +15,11 @@ The EU felt like a particularly interesting case study because it’s such a div
 ## Step two: the critique
 I evaluated the visualization using Stephen Few’s Data Visualization Effectiveness Profile. Overall, the chart contains valuable information, but several design choices hold it back from being truly effective.
 
-On the positive side, the underlying data is genuinely meaningful. It covers a long enough time span to show whether countries have made real progress in women’s parliamentary representation, and the formatting itself is clean and professional. It also clearly cites Eurostat, which makes the visualization feel trustworthy and anchored in an authoritative source.
+On the positive side, the underlying data is genuinely meaningful. It covers a long enough time span to show whether countries have made real progress in women’s parliamentary representation, and the formatting itself is clean and professional. It also clearly cites Eurostat, which makes the visualization feel trustworthy.
 
-But even with all those strengths, the chart is hard to interpret in practice. With more than 25 countries shown as overlapping lines, it becomes virtually impossible to track any single trend without getting lost. The colors are so similar that I kept having to reference the legend, which is placed far from the data and adds even more cognitive load. There’s also no real narrative or takeaway to help the viewer understand what matters. Everything is presented with equal visual weight, so the story quickly gets buried in the noise. 
+However even with those strengths, the chart is hard to interpret. With more than 25 countries shown as overlapping lines, it becomes virtually impossible to track any single trend without getting lost. The colors are so similar that I kept having to reference the legend, which is placed far from the data and adds even more cognitive load. There’s also no real narrative or takeaway to help the viewer understand what matters. Everything is presented with equal visual weight, so the story quickly gets buried in the noise. 
 
-Overall, the visualization comes close to being useful, but it ultimately asks the viewer to work far too hard. That made me want to redesign it in a way that highlights a clearer message. That recognizes that women deserve equitable political representation, and that the pace of progress (or the lack of it) really does vary dramatically across countries. By simplifying and reframing the view, I hoped to make those differences easier to see and understand.
+Overall, the visualization comes close to being useful, but it  asks the viewer to work too hard. That made me want to redesign it in a way that highlights a clearer message. That recognizes that women deserve equitable political representation, and that the pace of progress (or the lack of it) really does vary dramatically across countries. By simplifying and reframing the view, I hoped to make those differences easier to see and understand.
 
 
 ## Step three: Sketch a solution
@@ -28,7 +28,7 @@ I began by sketched out a few ideas on paper, such as the one below.
 <img width="1395" height="2048" alt="image" src="https://github.com/user-attachments/assets/2c60f17d-de71-4982-aed6-0608fdbcbae7" />
 
 
-My first goal was to break the information into **two visuals** that complemented each other instead of one overly busy one:
+My first goal was to break the information into **two visuals** that complemented each other instead of one busy one:
 
 1. **A simple line chart** that focuses on only a handful of countries (top performers, lowest performers, and the EU average).
 
@@ -69,7 +69,7 @@ I didn’t originally plan to do two charts combined into one multi-element visu
 
 The original dataset had so many lines so I made the  choice to include only the top three performers (Sweden, Finland, Belgium) and the lowest three performers (Cyprus, Malta, Hungary) with the EU average for a baseline reference. 
 
-These extremes are where the clearest differences show up and they reinforce the story I’m trying to tell. This visualization isn’t trying to be a full statistical analysis, but rather trying to help the viewer see how dramatically experiences differ across the EU.
+These extremes are where the clearest differences show up and they reinforce the story. This visuali isn’t trying to be a full statistical analysis, but rather trying to help the viewer see how dramatically experiences differ across the EU.
 
 One of the biggest pieces of feedback I got from my peers was about the colors in my sketch, as they didn’t know what the colors meant. That pushed me to be much more intentional with the palette. Using graduated shades of greens to indicate high representation/a positive outcome and oranges to indicate low representation/a concerning outcome matches viewers' natural associations with these colors. This ended up being one of the most important improvements, because it removes cognitive friction and helps people immediately understand which countries are doing better or worse.
 
@@ -77,9 +77,9 @@ After testing, I realized I needed titles that were straightforward but still co
 
 For the line chart, “Changes in Women’s Parliamentary Representation Across the EU, 2009–2019” tells you what’s being measured, who it applies to, and what time period is included. For the bar chart, I wanted something that hinted at inequality more explicitly. “EU Countries: Leaders and Laggards in Women’s Parliamentary Representation (2019)” communicates that the chart is not just raw values.
 
-The hardest part was finding the sweet spot between simplification and oversimplification. Initially, I considered showing only the EU average and the two extreme countries, but that felt too narrow and didn’t capture the diversity of political contexts in the EU. On the other hand, the full dataset was way too chaotic. The top/bottom three approach ended up being the best compromise.
+The most challenging part was finding a balance between simplification and oversimplification. Initially, I considered showing only the EU average and the two extreme countries, but that felt too narrow and didn’t capture the diversity of political contexts in the EU. On the other hand, the full dataset was too much. The top/bottom three approach ended up being the best compromise.
 
-Compared to the original Eurostat visualization, my redesign directs the reader toward the main story instead of overwhelming them with every detail and highlights the equity gap more clearly. By using color meaningfully to communicate differences, we can separates progress from “current status,” which makes these elements easier to interpret. My aim was to remove unnecessary visual clutter in order for the design to feel more accessible for a policymaking or general-interest audience. Even though the EU has made progress overall, the experience of women in politics looks very different depending on where they live. Some countries hover near 50% representation, while others struggle to reach even 15%. Visualizing this contrast in a clear way felt like an important part of telling a more honest and policy-relevant story.
+Compared to the original Eurostat visualization, my redesign directs the reader toward the main story instead of overwhelming them with every detail and highlights the equity gap more clearly. By using color meaningfully to communicate differences, we can separate progress from “current status,” which makes these elements easier to interpret. My aim was to remove unnecessary visual clutter in order for the design to feel more accessible for a policymaking or general-interest audience. Even though the EU has made progress overall, the experience of women in politics looks very different depending on where they live. Some countries hover near 50% representation, while others struggle to reach even 15%. Visualizing this contrast in a clear way felt like an important part of telling a more honest and policy-relevant story.
 
 ## References
 - Eurostat. “Seats held by women in national parliaments and governments.”  
