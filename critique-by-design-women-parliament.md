@@ -3,7 +3,8 @@
 
 ## Step one: the visualization
 
-The original visualization "Seats held by women in national parliaments and governments" can be found below:
+The original visualization, **"Seats held by women in national parliaments and governments,"** is shown below and was published by Eurostat. The dataset and visualization are publicly available through the MakeoverMonday archive here:  
+👉 [https://data.world/makeovermonday/2021w9](https://data.world/makeovermonday/2021w9)
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f03a052f-bd00-4b51-8d80-d1716fcb05e4" />
 
@@ -51,7 +52,11 @@ I shared my drawn wireframe with two classmates and asked the following question
 | Anything to change? | Suggested making the title more specific | Recommended using color more deliberately to signal meaning |
 
 
-The main takeaway was that the concept of splitting the visualization into two charts worked well. Both people understood what I was trying to show without much explanation. However, both mentioned color confusion, which made me rethink how intentional my palette needed to be. Their feedback reinforced the importance of consistency (greens for high performers, oranges for low performers) and clearer labeling. It also pushed me to tighten the title so the message felt more explicit and easier to grasp at a glance.
+After talking with both classmates, a few patterns stood out right away. The biggest one was that the overall idea of splitting the visualization into two charts made sense to them, which reassured me that I was moving in the right direction. They could recognize the “change over time” chart and they understood the purpose of the bar chart. That part felt intuitive, which matched the direction I wanted to go.
+
+But both people also pointed out that the colors in my sketch were confusing. They didn’t know what the colors represented or why certain lines were a certain shade. This lined up almost exactly with the gaps I had highlighted earlier using Stephen Few’s critique process. Few puts a lot of emphasis on perceptibility, clarity, and reducing cognitive load, and my classmates’ reactions confirmed that I wasn’t there yet. The design was getting closer but still wasn’t intuitive enough to read without work.
+
+Their feedback pushed me to be much more deliberate with the color palette and labeling. I realized that if the colors weren’t immediately understandable in a rough sketch, they definitely wouldn’t be clear in the final product. The same went for the title in that both people suggested making it more specific so the viewer knows exactly what they’re looking at from the start. Overall, the feedback helped me refine the parts of the redesign that Few’s method had already made me more aware of and it guided the changes I made in the final version.
 
 ## Step five: build the solution
 
