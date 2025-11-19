@@ -5,6 +5,7 @@
 For my final project, I’m exploring where critical infrastructure in New York City’s Manhattan borough overlaps with high coastal flood vulnerability. Manhattan has a dense network of essential services such as hospitals, public schools, fire stations, and public housing developments that people rely on every day. However, not all neighborhoods face the same level of exposure to flooding and the city’s own projections show that flood risk will continue increasing throughout this century.
  
 My goal for this project is to create a visualization highlighting geographic hotspots where essential services fall inside the highest flood-risk areas. The focus will be a map of Manhattan neighborhoods shaded by flood vulnerability and symbols representing different infrastructure types. Putting these two pieces together should help the audience quickly see which places have both high risk and clusters of services that matter during emergencies.
+
 This project is aimed primarily at NYC emergency managers and planners, but also for residents who want a better understanding of how flooding could affect the essential systems in their communities. Ultimately, the visualization should help people see not just where flooding is likely but what it threatens, and where the city might focus future planning.
 
 Using the Good Charts story arc structure, I want the viewer to feel like they’re being guided through the data step by step.
@@ -53,7 +54,9 @@ Sketch 6: What the viewers walk about with
 
 
 # The Data
-For this project, I’m using publicly available datasets from New York City that provide both neighborhood-level flood vulnerability information and the locations of key facilities across Manhattan. The Facilities Database includes the locations of hospitals, public schools, fire stations, and public housing developments. I plan to filter this dataset to focus only on the types of services that matter most for basic daily needs and emergency response. The Flood Vulnerability Index is a way to compare risk across neighborhoods, which makes it useful for a choropleth map.
+For this project, I’m using publicly available datasets from New York City that provide both neighborhood-level flood vulnerability information and the locations of key facilities across Manhattan. The Facilities Database includes the locations of hospitals, public schools, fire stations, and public housing developments.
+
+I plan to filter this dataset to focus only on the types of services that matter most for basic daily needs and emergency response. The Flood Vulnerability Index is a way to compare risk across neighborhoods, which makes it useful for a choropleth map.
 
 In Tableau, I’ll join or link these datasets by neighborhood boundaries, create the flood-risk map, and then overlay the filtered facility points on top. I’ll also use the same data to calculate summary counts for the bar and pie charts in the final story.
 Below are the public datasets I plan to use:
@@ -67,6 +70,7 @@ Below are the public datasets I plan to use:
 # Method and Medium
 
 I will use Tableau to build the main visuals for this project, including the choropleth map, the infrastructure hotspot map, and the support bar and pie charts. Once those are finished, I will bring everything into a Shorthand story so I can present the project as a simple narrative that follows a story arc. 
+
 The final product will be an interactive piece that mixes maps, charts, and short text explanations. My goal is to create something easy to follow for NYC emergency planners but also accessible for residents who just want to understand what’s going on in their neighborhood. 
 
 ## References
