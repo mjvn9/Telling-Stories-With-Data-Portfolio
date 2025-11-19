@@ -8,9 +8,10 @@ My goal for this project is to create a visualization highlighting geographic ho
 This project is aimed primarily at NYC emergency managers and planners, but also for residents who want a better understanding of how flooding could affect the essential systems in their communities. Ultimately, the visualization should help people see not just where flooding is likely but what it threatens, and where the city might focus future planning.
 
 Using the Good Charts story arc structure, I want the viewer to feel like they’re being guided through the data step by step.
->One-Sentence Summary: In Manhattan, a handful of neighborhoods combine high coastal flood risk with dense clusters of critical infrastructure, making them priority hotspots for resilience planning.
 
-User Stories
+One-Sentence Summary: In Manhattan, a handful of neighborhoods combine high coastal flood risk with dense clusters of critical infrastructure, making them priority hotspots for resilience planning.
+
+User Stories:
 •	As an NYC emergency manager, I want to see which neighborhoods have both high flood vulnerability and many critical facilities so I know where to prioritize resilience investments.
 •	As a resident, I want to know whether my neighborhood’s essential services are at risk so I can better understand local vulnerabilities.
 
