@@ -2,8 +2,8 @@
 
 
 # Outline
-> For my final project, I’m exploring where critical infrastructure in New York City’s Manhattan borough overlaps with high coastal flood vulnerability. Manhattan has a dense network of essential services such as hospitals, public schools, fire stations, and public housing developments that people rely on every day. However, not all neighborhoods face the same level of exposure to flooding and the city’s own projections show that flood risk will continue increasing throughout this century.
-> 
+For my final project, I’m exploring where critical infrastructure in New York City’s Manhattan borough overlaps with high coastal flood vulnerability. Manhattan has a dense network of essential services such as hospitals, public schools, fire stations, and public housing developments that people rely on every day. However, not all neighborhoods face the same level of exposure to flooding and the city’s own projections show that flood risk will continue increasing throughout this century.
+ 
 My goal for this project is to create a visualization highlighting geographic hotspots where essential services fall inside the highest flood-risk areas. The focus will be a map of Manhattan neighborhoods shaded by flood vulnerability and symbols representing different infrastructure types. Putting these two pieces together should help the audience quickly see which places have both high risk and clusters of services that matter during emergencies.
 This project is aimed primarily at NYC emergency managers and planners, but also for residents who want a better understanding of how flooding could affect the essential systems in their communities. Ultimately, the visualization should help people see not just where flooding is likely but what it threatens, and where the city might focus future planning.
 
@@ -14,19 +14,19 @@ User Stories
 •	As an NYC emergency manager, I want to see which neighborhoods have both high flood vulnerability and many critical facilities so I know where to prioritize resilience investments.
 •	As a resident, I want to know whether my neighborhood’s essential services are at risk so I can better understand local vulnerabilities.
 
->Setup
+Setup
 I start by establishing the context of everyday Manhattan as a dense borough with essential infrastructure that residents depend on. This section includes a neutral, baseline map. There is no flood shading yet as we just want to introduce the geography and the idea that these facilities are everywhere.
 
 The key ideas in this stage are: Manhattan’s population and infrastructure density, categories of facilities (hospitals, schools, public housing, fire stations), and a simple outline map to set the geography.
 
->Conflict
+Conflict
 I introduce the Flood Vulnerability Index by neighborhood as a choropleth map. The viewer sees immediately that some neighborhoods are much more at risk than others. Then I overlay the infrastructure points such as hospitals, schools, public housing, etc. This is the turning point of the story, because the audience can now see where the darkest flood-risk areas overlap with clusters of essential services.
 
 The key ideas in this stage are: choropleth map of the Flood Vulnerability Index, infrastructure points layered on top, clear legends for each facility type, annotations that highlight 2–3 emerging hotspot neighborhoods.
 
 Ultimately, the viewer should start to wonder which neighborhoods they/we should really be worried about.
 
->Resolution
+Resolution
 This last section will tie everything into a clearer story about priorities. The charts help confirm which neighborhoods show the most overlap.
 
 Visuals include:
@@ -37,7 +37,6 @@ Visuals include:
 The goal is for the audience walk away with an more data-informed understanding of where vulnerabilities concentrate and what types of services are most affected. 
 
 ## Initial Sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Sketch 1: Sets context about Manhattan before any data layers
 
@@ -53,7 +52,7 @@ Sketch 6: What the viewers walk about with
 
 
 # The Data
-> For this project, I’m using publicly available datasets from New York City that provide both neighborhood-level flood vulnerability information and the locations of key facilities across Manhattan. The Facilities Database includes the locations of hospitals, public schools, fire stations, and public housing developments. I plan to filter this dataset to focus only on the types of services that matter most for basic daily needs and emergency response. The Flood Vulnerability Index is a way to compare risk across neighborhoods, which makes it useful for a choropleth map.
+For this project, I’m using publicly available datasets from New York City that provide both neighborhood-level flood vulnerability information and the locations of key facilities across Manhattan. The Facilities Database includes the locations of hospitals, public schools, fire stations, and public housing developments. I plan to filter this dataset to focus only on the types of services that matter most for basic daily needs and emergency response. The Flood Vulnerability Index is a way to compare risk across neighborhoods, which makes it useful for a choropleth map.
 
 In Tableau, I’ll join or link these datasets by neighborhood boundaries, create the flood-risk map, and then overlay the filtered facility points on top. I’ll also use the same data to calculate summary counts for the bar and pie charts in the final story.
 Below are the public datasets I plan to use:
