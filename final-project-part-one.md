@@ -42,13 +42,27 @@ The goal is for the audience walk away with an more data-informed understanding 
 
 Sketch 1: Sets context about Manhattan before any data layers
 
+<img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/0f7704ce-5770-4413-aa29-efd543c48891" />
+
+
 Sketch 2: Shifting into conflict by showing uneven risk across neighborhoods
+
+<img width="1919" height="1079" alt="map2" src="https://github.com/user-attachments/assets/5378e9c6-c54b-480c-80eb-70ff4f68c8b7" />
+
 
 Sketch 3: Conflict is where risk meets infrastructure within certain hotspots
 
+<img width="1918" height="1079" alt="map1" src="https://github.com/user-attachments/assets/f493b23e-b14d-426d-9919-7b84a061e2c0" />
+
+
 Sketch 4: Supports critical choice in where to focus planning
 
+<img width="1920" height="1080" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/31ebfd7d-178f-4972-be2f-5e370117c33f" />
+
+
 Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
+
+<img width="1920" height="1080" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/12d4020e-63f8-408e-86b8-9a0e05db343f" />
 
 
 # The Data
