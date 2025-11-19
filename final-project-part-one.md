@@ -50,8 +50,6 @@ Sketch 4: Supports critical choice in where to focus planning
 
 Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
 
-Sketch 6: What the viewers walk about with 
-
 
 # The Data
 For this project, I’m using publicly available datasets from New York City that provide both neighborhood-level flood vulnerability information and the locations of key facilities across Manhattan. The Facilities Database includes the locations of hospitals, public schools, fire stations, and public housing developments.
