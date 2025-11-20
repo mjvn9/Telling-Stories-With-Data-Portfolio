@@ -6,7 +6,7 @@ For my final project, I’m exploring where critical infrastructure in New York 
  
 My goal for this project is to create a visualization highlighting geographic hotspots where essential services fall inside the highest flood-risk areas. The focus will be a map of Manhattan neighborhoods shaded by flood vulnerability and symbols representing different infrastructure types. Putting these two pieces together should help the audience quickly see which places have both high risk and clusters of services that matter during emergencies.
 
-This project is aimed primarily at NYC emergency managers and planners, but also for residents who want a better understanding of how flooding could affect the essential systems in their communities. Ultimately, the visualization should help people see not just where flooding is likely but what it threatens, and where the city might focus future planning.
+> This project is aimed primarily at NYC emergency managers and planners, but also for residents who want a better understanding of how flooding could affect the essential systems in their communities. Ultimately, the visualization should help people see not just where flooding is likely but what it threatens, and where the city might focus future planning.
 
 Using the Good Charts story arc structure, I want the viewer to feel like they’re being guided through the data step by step.
 
@@ -17,10 +17,11 @@ Using the Good Charts story arc structure, I want the viewer to feel like they�
 
 ---
 
-User Stories
+## **User Stories**
 
-•	As an NYC emergency manager, I want to see which neighborhoods have both high flood vulnerability and many critical facilities so I know where to prioritize resilience investments.
-•	As a resident, I want to know whether my neighborhood’s essential services are at risk so I can better understand local vulnerabilities.
+-	As an NYC emergency manager, I want to see which neighborhoods have both high flood vulnerability and many critical facilities so I know where to prioritize resilience investments.
+
+-	As a resident, I want to know whether my neighborhood’s essential services are at risk so I can better understand local vulnerabilities.
 
 ---
 
@@ -51,6 +52,8 @@ This last section will tie everything into a clearer story about priorities. The
 
 The goal is for the audience walk away with an more data-informed understanding of where vulnerabilities concentrate and what types of services are most affected. 
 
+---
+
 ## Initial Sketches
 
 > Sketch 1: Sets context about Manhattan before any data layers
@@ -75,6 +78,8 @@ The goal is for the audience walk away with an more data-informed understanding 
 
 <img src="https://github.com/user-attachments/assets/12d4020e-63f8-408e-86b8-9a0e05db343f" alt="Sketch 5 pie chart" width="500" />
 
+---
+
 # The Data
 For this project, I’m using publicly available datasets from New York City that provide both neighborhood-level flood vulnerability information and the locations of key facilities across Manhattan. The Facilities Database includes the locations of hospitals, public schools, fire stations, and public housing developments.
 
@@ -89,14 +94,20 @@ Below are the public datasets I plan to use:
 | NYC Flood Vulnerability Index | https://data.cityofnewyork.us/Environment/New-York-City-s-Flood-Vulnerability-Index/mrjc-v9pm |Neighborhood-level index that measures social, infrastructural, and environmental vulnerability to flooding. Used for the choropleth shading.  
 | NYC Coastal Flood Hazard Map Viewer |https://www.arcgis.com/apps/webappviewer/index.html?id=1c37d271fba14163bbb520517153d6d5 | Online reference map showing coastal flood hazard zones. I will use this mainly for context and verification. |
 
+---
+
 # Method and Medium
 
 I will use Tableau to build the main visuals for this project, including the choropleth map, the infrastructure hotspot map, and the support bar and pie charts. Once those are finished, I will bring everything into a Shorthand story so I can present the project as a simple narrative that follows a story arc. 
 
 The final product will be an interactive piece that mixes maps, charts, and short text explanations. My goal is to create something easy to follow for NYC emergency planners but also accessible for residents who just want to understand what’s going on in their neighborhood. 
 
+---
+
 ## References
 _List any references you used here._
+
+---
 
 ## AI Acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
