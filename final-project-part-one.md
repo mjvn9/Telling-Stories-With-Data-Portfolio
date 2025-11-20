@@ -28,7 +28,7 @@ Using the Good Charts story arc structure, I want the viewer to feel like they�
 ## **Setup:**
 I start by establishing the context of everyday Manhattan as a dense borough with essential infrastructure that residents depend on. This section includes a neutral, baseline map. There is no flood shading yet as we just want to introduce the geography and the idea that these facilities are everywhere.
 
-The key ideas in this stage are: Manhattan’s population and infrastructure density, categories of facilities (hospitals, schools, public housing, fire stations), and a simple outline map to set the geography.
+The key ideas in this stage are: Manhattan’s population and infrastructure density, and a simple outline map to set the geography.
 
 ---
 
@@ -36,9 +36,9 @@ The key ideas in this stage are: Manhattan’s population and infrastructure den
 
 I introduce the **Flood Vulnerability Index** by neighborhood as a choropleth map. The viewer sees immediately that some neighborhoods are much more at risk than others. Then I overlay the infrastructure points such as hospitals, schools, public housing, etc. This is the turning point of the story, because the audience can now see where the darkest flood-risk areas overlap with clusters of essential services.
 
-The key ideas in this stage are: choropleth map of the Flood Vulnerability Index, infrastructure points layered on top, clear legends for each facility type, annotations that highlight 2–3 emerging hotspot neighborhoods.
-
 Ultimately, the viewer should start to wonder which neighborhoods they/we should really be worried about.
+
+The key ideas in this stage are: choropleth map of the Flood Vulnerability Index, infrastructure points layered on top, clear legends for each facility type, annotations that highlight 2–3 hotspot neighborhoods.
 
 ---
 
@@ -62,19 +62,23 @@ The goal is for the audience walk away with an more data-informed understanding 
 
 
 > Sketch 2: Shifting into conflict by showing uneven risk across neighborhoods
+> Created through Canva
 
 <img src="https://github.com/user-attachments/assets/5378e9c6-c54b-480c-80eb-70ff4f68c8b7" alt="Sketch 2 map" width="700" />
 
 
 > Sketch 3: Conflict is where risk meets infrastructure within certain hotspots
+> > Created through Canva
 
 <img src="https://github.com/user-attachments/assets/f493b23e-b14d-426d-9919-7b84a061e2c0" alt="Sketch 3 map" width="700" />
 
 > Sketch 4: Supports critical choice in where to focus planning
+> > Created through Canva
 
 <img src="https://github.com/user-attachments/assets/31ebfd7d-178f-4972-be2f-5e370117c33f" alt="Sketch 4 bar chart" width="700" />
 
 > Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
+> > Created through Canva
 
 <img src="https://github.com/user-attachments/assets/12d4020e-63f8-408e-86b8-9a0e05db343f" alt="Sketch 5 pie chart" width="700" />
 
@@ -98,9 +102,9 @@ Below are the public datasets I plan to use:
 
 # Method and Medium
 
-I will use Tableau to build the main visuals for this project, including the choropleth map, the infrastructure hotspot map, and the support bar and pie charts. Once those are finished, I will bring everything into a Shorthand story so I can present the project as a simple narrative that follows a story arc. 
+I will use Tableau to build the main visuals for this project, including the choropleth map, the infrastructure hotspot map, and the supporting bar and pie charts. Once those are finished, I will bring everything into a Shorthand story so I can present the project as a narrative that follows a story arc. 
 
-The final product will be an interactive piece that mixes maps, charts, and short text explanations. My goal is to create something easy to follow for NYC emergency planners but also accessible for residents who just want to understand what’s going on in their neighborhood. 
+The final product will be an interactive piece that mixes maps, charts, and short text explanations. My goal is to create something easy to follow for NYC emergency planners but is also accessible for residents who want to understand what’s going on in their neighborhood. 
 
 ---
 
