@@ -59,7 +59,6 @@ The goal is for the audience walk away with an more data-informed understanding 
 ## Initial Sketches
 
 > Sketch 1: Sets context about Manhattan before any data layers
-
 <img src="https://github.com/user-attachments/assets/0f7704ce-5770-4413-aa29-efd543c48891" alt="Sketch 1" width="700" />
 
 
