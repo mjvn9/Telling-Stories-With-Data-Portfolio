@@ -90,7 +90,3 @@ Compared to the original Eurostat visualization, my redesign directs the reader 
 
 ## AI acknowledgements
 I used ChatGPT to help refine some of the narrative language. All sketches and the visualization redesign are my own.
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
