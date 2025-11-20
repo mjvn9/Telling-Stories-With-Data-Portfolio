@@ -105,9 +105,12 @@ The final product will be an interactive piece that mixes maps, charts, and shor
 ---
 
 ## References
-_List any references you used here._
+
+Berinato, S. (2023). Good charts, updated and expanded: The HBR guide to making smarter, more persuasive data visualizations. Harvard Business Review Press.
+
+Surico, J., & Underwood, N. (2025, October 15). What New York can do to survive flooding. The New York Times. https://www.nytimes.com/interactive/2025/10/15/nyregion/new-york-climate-flooding-solutions.html
 
 ---
 
 ## AI Acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to help me brainstorm wording and refine the language in some sections of this assignment. All project ideas, sketches, and visual concepts are my own.
