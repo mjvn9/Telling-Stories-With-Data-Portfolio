@@ -20,8 +20,7 @@ You can view my full write-up and redesigned visualizations here:
 ## Final project
 You can view my full write-up and sketches for Part 1 here: [Part I](final-project-part-one)
 
-Part II - Coming Soon!
-Part III - Coming Soon!
+Part II & Part III - Coming Soon!
 
 ---
 
