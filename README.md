@@ -15,13 +15,13 @@ I'm interested in climate and sustainability and hope to use data visualization 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design-women-parliament.md)
 You can view my full write-up and redesigned visualizations here: 
-[Critique by Design – Women in EU Parliaments](critique-by-design-women-parliament.md)
+[Critique by Design – Women in EU Parliaments](critique-by-design.md)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+You can view my full write-up and sketches for Part 1 here: [Part I](final-project-part-one)
+
+Part II - Coming Soon!
+Part III - Coming Soon!
 
 ---
 
