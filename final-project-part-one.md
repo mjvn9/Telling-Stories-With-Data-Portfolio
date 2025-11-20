@@ -91,7 +91,8 @@ The goal is for the audience walk away with an more data-informed understanding 
 > Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
 > > Created through Canva
 
-<img src="https://github.com/user-attachments/assets/12d4020e-63f8-408e-86b8-9a0e05db343f" alt="Sketch 5 pie chart" width="700" />
+<img src="https://github.com/user-attachments/assets/706c3254-8376-477f-b3d9-851a79a3b6c7" alt="Sketch 5 pie chart" width="700" />
+
 
 ---
 
