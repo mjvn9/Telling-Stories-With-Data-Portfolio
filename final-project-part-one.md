@@ -2,7 +2,9 @@
 
 
 # Outline
-For my final project, I’m exploring where critical infrastructure in New York City’s Manhattan borough overlaps with high coastal flood vulnerability. Manhattan has a dense network of essential services such as hospitals, public schools, fire stations, and public housing developments that people rely on every day. However, not all neighborhoods face the same level of exposure to flooding and the city’s own projections show that flood risk will continue increasing throughout this century.
+For my final project, I’m exploring where critical infrastructure in New York City’s Manhattan borough overlaps with high coastal flood vulnerability. 
+
+Manhattan has a dense network of essential services such as hospitals, public schools, fire stations, and public housing developments that people rely on every day. However, not all neighborhoods face the same level of exposure to flooding and the city’s own projections show that flood risk will continue increasing throughout this century.
  
 My goal for this project is to create a visualization highlighting geographic hotspots where essential services fall inside the highest flood-risk areas. The focus will be a map of Manhattan neighborhoods shaded by flood vulnerability and symbols representing different infrastructure types. Putting these two pieces together should help the audience quickly see which places have both high risk and clusters of services that matter during emergencies.
 
@@ -25,14 +27,14 @@ Using the Good Charts story arc structure, I want the viewer to feel like they�
 
 ---
 
-## **Setup:**
+## **Setup**
 I start by establishing the context of everyday Manhattan as a dense borough with essential infrastructure that residents depend on. This section includes a neutral, baseline map. There is no flood shading yet as we just want to introduce the geography and the idea that these facilities are everywhere.
 
 The key ideas in this stage are: Manhattan’s population and infrastructure density, and a simple outline map to set the geography.
 
 ---
 
-## **Conflict:**
+## **Conflict**
 
 I introduce the **Flood Vulnerability Index** by neighborhood as a choropleth map. The viewer sees immediately that some neighborhoods are much more at risk than others. Then I overlay the infrastructure points such as hospitals, schools, public housing, etc. This is the turning point of the story, because the audience can now see where the darkest flood-risk areas overlap with clusters of essential services.
 
@@ -42,7 +44,7 @@ The key ideas in this stage are: choropleth map of the Flood Vulnerability Index
 
 ---
 
-## **Resolution:**
+## **Resolution**
 This last section will tie everything into a clearer story about priorities. The charts help confirm which neighborhoods show the most overlap.
 
 **Visuals in this section:**
@@ -68,16 +70,23 @@ The goal is for the audience walk away with an more data-informed understanding 
 
 
 
+
 > Sketch 3: Conflict is where risk meets infrastructure within certain hotspots
 > > Created through Canva
 
 <img src="https://github.com/user-attachments/assets/d1905285-3054-4d40-b9d7-158e8770d7dc" alt="Sketch 3 map" width="700" />
 
 
+
+
 > Sketch 4: Supports critical choice in where to focus planning
 > > Created through Canva
 
 <img src="https://github.com/user-attachments/assets/31ebfd7d-178f-4972-be2f-5e370117c33f" alt="Sketch 4 bar chart" width="700" />
+
+
+
+
 
 > Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
 > > Created through Canva
