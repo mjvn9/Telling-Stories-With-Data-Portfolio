@@ -112,6 +112,8 @@ The final product will be an interactive piece that mixes maps, charts, and shor
 
 Berinato, S. (2023). Good charts, updated and expanded: The HBR guide to making smarter, more persuasive data visualizations. Harvard Business Review Press.
 
+New York City Department of City Planning. (2016). Flood risk in NYC (Information brief). https://www.nyc.gov/assets/planning/download/pdf/plans-studies/climate-resiliency/flood-risk-nyc-info-brief.pdf
+
 Surico, J., & Underwood, N. (2025, October 15). What New York can do to survive flooding. The New York Times. https://www.nytimes.com/interactive/2025/10/15/nyregion/new-york-climate-flooding-solutions.html
 
 ---
