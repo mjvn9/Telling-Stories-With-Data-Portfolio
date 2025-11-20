@@ -10,25 +10,26 @@ This project is aimed primarily at NYC emergency managers and planners, but also
 
 Using the Good Charts story arc structure, I want the viewer to feel like they’re being guided through the data step by step.
 
-One-Sentence Summary: In Manhattan, a handful of neighborhoods combine high coastal flood risk with dense clusters of critical infrastructure, making them priority hotspots for resilience planning.
+> One-Sentence Summary: In Manhattan, a handful of neighborhoods combine high coastal flood risk with dense clusters of critical infrastructure, making them priority hotspots for resilience planning.
 
-User Stories:
-•	As an NYC emergency manager, I want to see which neighborhoods have both high flood vulnerability and many critical facilities so I know where to prioritize resilience investments.
-•	As a resident, I want to know whether my neighborhood’s essential services are at risk so I can better understand local vulnerabilities.
+> User Stories
 
-Setup
+> •	As an NYC emergency manager, I want to see which neighborhoods have both high flood vulnerability and many critical facilities so I know where to prioritize resilience investments.
+> •	As a resident, I want to know whether my neighborhood’s essential services are at risk so I can better understand local vulnerabilities.
+
+> Setup
 I start by establishing the context of everyday Manhattan as a dense borough with essential infrastructure that residents depend on. This section includes a neutral, baseline map. There is no flood shading yet as we just want to introduce the geography and the idea that these facilities are everywhere.
 
 The key ideas in this stage are: Manhattan’s population and infrastructure density, categories of facilities (hospitals, schools, public housing, fire stations), and a simple outline map to set the geography.
 
-Conflict
+> Conflict
 I introduce the Flood Vulnerability Index by neighborhood as a choropleth map. The viewer sees immediately that some neighborhoods are much more at risk than others. Then I overlay the infrastructure points such as hospitals, schools, public housing, etc. This is the turning point of the story, because the audience can now see where the darkest flood-risk areas overlap with clusters of essential services.
 
 The key ideas in this stage are: choropleth map of the Flood Vulnerability Index, infrastructure points layered on top, clear legends for each facility type, annotations that highlight 2–3 emerging hotspot neighborhoods.
 
 Ultimately, the viewer should start to wonder which neighborhoods they/we should really be worried about.
 
-Resolution
+> Resolution
 This last section will tie everything into a clearer story about priorities. The charts help confirm which neighborhoods show the most overlap.
 
 Visuals include:
@@ -40,25 +41,25 @@ The goal is for the audience walk away with an more data-informed understanding 
 
 ## Initial Sketches
 
-Sketch 1: Sets context about Manhattan before any data layers
+> Sketch 1: Sets context about Manhattan before any data layers
 
 <img src="https://github.com/user-attachments/assets/0f7704ce-5770-4413-aa29-efd543c48891" alt="Sketch 1" width="500" />
 
 
-Sketch 2: Shifting into conflict by showing uneven risk across neighborhoods
+> Sketch 2: Shifting into conflict by showing uneven risk across neighborhoods
 
 <img src="https://github.com/user-attachments/assets/5378e9c6-c54b-480c-80eb-70ff4f68c8b7" alt="Sketch 2 map" width="500" />
 
 
-Sketch 3: Conflict is where risk meets infrastructure within certain hotspots
+> Sketch 3: Conflict is where risk meets infrastructure within certain hotspots
 
 <img src="https://github.com/user-attachments/assets/f493b23e-b14d-426d-9919-7b84a061e2c0" alt="Sketch 3 map" width="500" />
 
-Sketch 4: Supports critical choice in where to focus planning
+> Sketch 4: Supports critical choice in where to focus planning
 
 <img src="https://github.com/user-attachments/assets/31ebfd7d-178f-4972-be2f-5e370117c33f" alt="Sketch 4 bar chart" width="500" />
 
-Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
+> Sketch 5: Helps audience understand what kinds of vulnerabilities dominate
 
 <img src="https://github.com/user-attachments/assets/12d4020e-63f8-408e-86b8-9a0e05db343f" alt="Sketch 5 pie chart" width="500" />
 
