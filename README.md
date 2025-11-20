@@ -1,4 +1,4 @@
-| [home page](https://mjvn9.github.io/Telling-Stories-With-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design-women-parliament.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mjvn9.github.io/Telling-Stories-With-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi!  My name is Mirelle (she/her) and I'm a graduate student here at Heinz College, studying Public Policy & Management (Flagship Track) with a concentration in Environmental Policy. 
