@@ -8,7 +8,7 @@
 The original visualization, **"Seats held by women in national parliaments and governments,"** is shown below and was published by Eurostat. The dataset and visualization are publicly available through the MakeoverMonday archive here:  
 👉 [https://data.world/makeovermonday/2021w9](https://data.world/makeovermonday/2021w9)
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f03a052f-bd00-4b51-8d80-d1716fcb05e4" />
+<img src="https://github.com/user-attachments/assets/f03a052f-bd00-4b51-8d80-d1716fcb05e4" width="700" />
 
 I chose this visualization because I’m really interested in how voices show up in policy spaces. As someone studying public policy, I think a lot about who gets to participate in shaping laws and institutions, and who doesn’t. Women are still underrepresented across many fields, especially in political leadership, so I wanted to look at whether there has been progress and how that progress differs across countries.
 
@@ -27,7 +27,7 @@ Overall, the visualization comes close to being useful, but it  asks the viewer 
 ## Step three: Sketch a solution
 I began by sketched out a few ideas on paper, such as the one below.
 
-<img width="1395" height="2048" alt="image" src="https://github.com/user-attachments/assets/2c60f17d-de71-4982-aed6-0608fdbcbae7" />
+<img src="https://github.com/user-attachments/assets/2c60f17d-de71-4982-aed6-0608fdbcbae7" width="700" />
 
 
 My first goal was to break the information into **two visuals** that complemented each other instead of one busy one:
@@ -66,7 +66,7 @@ Below is my redesigned visualization, built in Datawrapper.
 
 <img src="https://github.com/user-attachments/assets/1005551a-eae7-4d70-aef7-ae0c2e904531" width="700" />
 
-<img width="1744" height="740" alt="DcLAw-eu-countries-leaders-and-laggards-in-women-s-parliamentary-representation-2019-" src="https://github.com/user-attachments/assets/8f37f4da-1212-4570-b615-0f2450e7d770" />
+<img src="https://github.com/user-attachments/assets/8f37f4da-1212-4570-b615-0f2450e7d770" width="700" />
 
 I didn’t originally plan to do two charts combined into one multi-element visual, but once I sketched out ideas, it became clear that one chart alone couldn’t do everything well. The line chart helps answer questions about progress. Who has improved? Who has stayed flat? Who has consistently led? But line charts can’t show magnitude or ranking as clearly as a simple horizontal bar chart. Pairing the two allowed me to show  the trajectory and the current reality which felt important for a topic like representation, where progress and current status both matter.
 
