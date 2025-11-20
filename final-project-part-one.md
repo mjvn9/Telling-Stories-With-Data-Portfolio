@@ -64,13 +64,15 @@ The goal is for the audience walk away with an more data-informed understanding 
 > Sketch 2: Shifting into conflict by showing uneven risk across neighborhoods
 > Created through Canva
 
-<img src="https://github.com/user-attachments/assets/5378e9c6-c54b-480c-80eb-70ff4f68c8b7" alt="Sketch 2 map" width="700" />
+<img src="https://github.com/user-attachments/assets/95051306-698f-4624-b642-250de555eb45" alt="Sketch 2 map" width="700" />
+
 
 
 > Sketch 3: Conflict is where risk meets infrastructure within certain hotspots
 > > Created through Canva
 
-<img src="https://github.com/user-attachments/assets/f493b23e-b14d-426d-9919-7b84a061e2c0" alt="Sketch 3 map" width="700" />
+<img src="https:///github.com/user-attachments/assets/dd5cd325-28ee-43c5-848b-25e02cb92876" alt="Sketch 3 map" width="700" />
+
 
 > Sketch 4: Supports critical choice in where to focus planning
 > > Created through Canva
