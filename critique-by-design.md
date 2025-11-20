@@ -64,7 +64,8 @@ Their feedback pushed me to be much more deliberate with the color palette and l
 
 Below is my redesigned visualization, built in Datawrapper.
 
-<img width="1680" height="1078" alt="pWZ0M-changes-in-women-s-parliamentary-representation-across-the-eu-2009-2019-" src="https://github.com/user-attachments/assets/1005551a-eae7-4d70-aef7-ae0c2e904531" />
+<img src="https://github.com/user-attachments/assets/1005551a-eae7-4d70-aef7-ae0c2e904531" width="700" />
+
 <img width="1744" height="740" alt="DcLAw-eu-countries-leaders-and-laggards-in-women-s-parliamentary-representation-2019-" src="https://github.com/user-attachments/assets/8f37f4da-1212-4570-b615-0f2450e7d770" />
 
 I didn’t originally plan to do two charts combined into one multi-element visual, but once I sketched out ideas, it became clear that one chart alone couldn’t do everything well. The line chart helps answer questions about progress. Who has improved? Who has stayed flat? Who has consistently led? But line charts can’t show magnitude or ranking as clearly as a simple horizontal bar chart. Pairing the two allowed me to show  the trajectory and the current reality which felt important for a topic like representation, where progress and current status both matter.
