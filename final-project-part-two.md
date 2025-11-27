@@ -2,7 +2,7 @@
 
 # Wireframes
 
-I expanded on my initial sketches into high-fidelity wireframes and organized them in Shorthand to preview the structure of the final piece. The current wireframe draft is available here: [link goes here].
+I expanded on my initial sketches into high-fidelity wireframes and organized them in Shorthand to preview the structure of the final piece. The current wireframe draft can be found here: [link goes here].
 
 The sections below describe key components and how they support the overall narrative.
 
