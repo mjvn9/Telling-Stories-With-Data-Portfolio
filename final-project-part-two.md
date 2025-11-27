@@ -2,7 +2,9 @@
 
 # Wireframes
 
-I expanded on my initial sketches into high-fidelity wireframes and organized them in Shorthand to preview the structure of the final piece. The current wireframe draft is available here: [link goes here]. The sections below describe key components and how they support the overall narrative.
+I expanded on my initial sketches into high-fidelity wireframes and organized them in Shorthand to preview the structure of the final piece. The current wireframe draft is available here: [link goes here].
+
+The sections below describe key components and how they support the overall narrative.
 
 # User Research 
 
@@ -15,7 +17,7 @@ I expanded on my initial sketches into high-fidelity wireframes and organized th
 2. **Manhattan residents**  
    Community members may not know whether the essential services they rely on are located in flood-prone areas. A clear, accessible map can help residents understand vulnerabilities in their own neighborhood and what types of facilities could be affected during severe flooding.
 
-#### Approach to Identifying Participants
+> Approach to Identifying Participants
 
 To collect feedback that reflects these audiences, I spoke with three individuals who represent the types of users I hope to reach:
 
