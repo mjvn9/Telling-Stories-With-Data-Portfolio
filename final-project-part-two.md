@@ -2,7 +2,7 @@
 
 # Wireframes
 
-I expanded on my initial sketches into high-fidelity wireframes and organized them in Shorthand to preview the structure of the final piece. The current wireframe draft can be found here: [link goes here].
+I expanded on my initial sketches into high-fidelity wireframes and organized them in Shorthand to preview the structure of the final piece. The current wireframe draft can be found here: [Shorthand Draft](https://preview.shorthand.com/zMqI3hwpmJA11u8J).
 
 The sections below describe key components and how they support the overall narrative.
 
@@ -12,7 +12,7 @@ The sections below describe key components and how they support the overall narr
 > This project is designed for two main groups who interact with information about flood risk in different ways:
 
 1. **NYC emergency management and planning staff**  
-   These professionals make decisions about preparedness, investments, and long-term resilience planning. They need visualizations that clearly highlight where critical facilities such as hospitals, schools, fire stations, and public housing overlap with areas of high flood vulnerability so they can prioritize resources effectively.
+   These professionals make decisions about preparedness, investments, and long-term resilience planning. They need visualizations that highlight where critical facilities such as hospitals, schools, fire stations, and public housing overlap with areas of high flood vulnerability so they can prioritize resources effectively.
 
 2. **Manhattan residents**  
    Community members may not know whether the essential services they rely on are located in flood-prone areas. A clear, accessible map can help residents understand vulnerabilities in their own neighborhood and what types of facilities could be affected during severe flooding.
