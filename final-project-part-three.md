@@ -1,36 +1,63 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mjvn9.github.io/Telling-Stories-With-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# The Final Data Story
+My final project, *Flood Risk in Manhattan: A Quick-Start Guide for Emergency Planners*, is published on Shorthand and can be viewed here:  
+**https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final-project-part-2/index.html
 
-Text here!
+---
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+# The Audience
+One of the biggest changes between Part II and Part III was clarifying and then narrowing down the audience for this project. Earlier in the process, I designed the story with **two distinct groups** in mind:
+1. **New York City Emergency Management and planning staff** as they need clear information about where flood vulnerability intersects with essential services.  
+2. **Manhattan residents** who could benefit from an accessible explanation of flood risk in different neighborhoods and the facilities they rely on that may be exposed.
 
-Text here!
+As I progressed, I realized that trying to  serve both audiences equally at the same time made the story less focused. Their needs and motivations are quite different from residents. Feedback from class and the teaching team reinforced the idea that there may already be sufficient public-facing tools to help New Yorkers understand their flood risk, but not necessarily as many resources designed for for emergency planners who would use it in operational decision-making.
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Therefore for Part III, I decided to pivot fully toward NYC emergency planning professionals and reframe the project as a **“quick start guide”**. It was meant to be something concise and actionable. This audience is invested in understanding where critical facilities (hospitals, schools, child-service locations, and public safety sites) overlap with high-risk flood zones, since these sites affect emergency access and response coordination.
 
-Text here!
+Focusing on a single stakeholder group made the story more purposeful aligned with my own resilience-planning perspective on the issue.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+---
 
-Text here!
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+## Other Changes Made Since Part II
+After the audience shift, there were other major changes that shaped the final story.
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+First, I revised how I **categorized neighborhood-level flood risk**. In Part II, I experimented with grouping Manhattan census tracts into generic “low,” “medium,” and “high” risk categories. After gathering user feedback, I changed gears to a more intuitive method of assigning each tract a **Flood Vulnerability Index value from 1 to 5**, where 5 represents the highest exposure. Emergency planners are used to working with numeric scales, so I felt that this detail would communicate risk levels more clearly.
 
-Text here!
+Second, I significantly changed **how critical infrastructure is visualized**. My original plan had symbolized point maps showing each facility type individually. While this worked in sketches, the actual Tableau output was cluttered and visually overwhelming. My solution was to replace the symbol map with a **density map**, so  planners can quickly identify clusters of essential services without being overwhelmed by overlapping icons. This will reduce cognitive load and support faster interpretation which is crucial for this audience.
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+These changes made the narrative more coherent and better suited for emergency planning workflows.
 
-Text here!
+---
 
+
+## Final Design Decisions
+### • Adding guiding annotations
+I added annotations within the Tableau visualizations to highlight patterns/insights directly on the charts. This ensures important findings are visible without long explanations.
+
+### • Structuring the story as a step-by-step guide that emphasizes action
+The final narrative is designed as a workflow:
+
+1. Identify neighborhoods with the highest risk  
+2. Map critical facilities within those areas  
+3. Pinpoint hotspots where risk and infrastructure overlap  
+4. Determine which facility types are most exposed  
+5. Turn findings into actionable planning steps  
+
+The story ends with a section on **“What This Means for Manhattan”** to summarize how planners can turn this information into decisions. 
+
+---
+
+## AI Acknowledgements
+I used AI to help me brainstorm wording and refine the language in some sections of this assignment. All project ideas, sketches, and visual concepts are my own.
+
+---
+
+# Final Thoughts
+This project reinforced how important it is to design with a specific audience and purpose in mind. I learned that simplifying visual information is usually more effective than trying to show everything at once, especially for stakeholders who need to interpret data quickly. If I had more time, I would explore adding an interactive element where planners could filter by facility type or simulate future flood scenarios. 
+
+Looking back, I’m very pleased with how this story evolved. Finding the right audience, adding details to the visuals, and steering the story toward actionable steps helped this go from a general flood-risk overview into a useful tool.
+
+---
 
