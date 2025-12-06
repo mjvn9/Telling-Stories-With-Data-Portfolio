@@ -8,10 +8,14 @@ Source: “What It Takes to Be Middle Class in America – 2025 Study.” Access
 
 <img src="https://github.com/user-attachments/assets/65db2e7c-384d-4084-b338-362b1e429e2c" width="800" />
 
+---
+
 
 ## Challenge Exercise 2
 This task asked us to prepare a visual on the most popular data viz types used on Datawrapper. The goal was to highlight trends and guide the developement team in prioritizing development work on the platform. 
+Source: Datawrapper.de
+
+
 <img src="https://github.com/user-attachments/assets/94a17af6-1e9a-492f-a55a-cf0008e5b7d0" width="800" />
 
-Source: Datawrapper.de
 
