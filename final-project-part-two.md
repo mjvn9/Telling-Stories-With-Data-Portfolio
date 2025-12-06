@@ -69,6 +69,10 @@ The interviews confirmed that the core story is working well and the maps commun
 ## References
 New York City Department of City Planning. (2016). Flood risk in NYC (Information brief). https://www.nyc.gov/assets/planning/download/pdf/plans-studies/climate-resiliency/flood-risk-nyc-info-brief.pdf
 
+NYC Open Data. (2024). Facilities Database – Shapefile [Dataset]. https://data.cityofnewyork.us/City-Government/Facilities-Database-Shapefile/2fpa-bnsx  
+
+NYC Open Data. (2024). New York City’s Flood Vulnerability Index [Dataset]. https://data.cityofnewyork.us/Environment/New-York-City-s-Flood-Vulnerability-Index/mrjc-v9pm/about_data 
+
 Surico, J., & Underwood, N. (2025, October 15). What New York can do to survive flooding. The New York Times. https://www.nytimes.com/interactive/2025/10/15/nyregion/new-york-climate-flooding-solutions.html
 
 ## AI acknowledgements
