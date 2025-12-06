@@ -1,8 +1,7 @@
 | [home page](https://mjvn9.github.io/Telling-Stories-With-Data-Portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The Final Data Story
-My final project, *Flood Risk in Manhattan: A Quick-Start Guide for Emergency Planners*, is published on Shorthand and can be viewed here:  
-**https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final-project-part-2/index.html
+My final project is published on Shorthand and can be viewed here: [*Flood Risk in Manhattan: A Quick-Start Guide for Emergency Planners*](https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final-project-part-2/index.html).
 
 ---
 
@@ -20,7 +19,7 @@ Focusing on a single stakeholder group made the story more purposeful aligned wi
 ---
 
 
-## Other Changes Made Since Part II
+# Other Changes Made Since Part II
 After the audience shift, there were other major changes that shaped the final story.
 
 First, I revised how I **categorized neighborhood-level flood risk**. In Part II, I experimented with grouping Manhattan census tracts into generic “low,” “medium,” and “high” risk categories. After gathering user feedback, I changed gears to a more intuitive method of assigning each tract a **Flood Vulnerability Index value from 1 to 5**, where 5 represents the highest exposure. Emergency planners are used to working with numeric scales, so I felt that this detail would communicate risk levels more clearly.
@@ -32,7 +31,7 @@ These changes made the narrative more coherent and better suited for emergency p
 ---
 
 
-## Final Design Decisions
+# Final Design Decisions
 ### • Adding guiding annotations
 I added annotations within the Tableau visualizations to highlight patterns/insights directly on the charts. This ensures important findings are visible without long explanations.
 
