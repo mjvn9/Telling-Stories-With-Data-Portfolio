@@ -48,11 +48,6 @@ The story ends with a section on **“What This Means for Manhattan”** to summ
 
 ---
 
-## AI Acknowledgements
-I used AI to help me brainstorm wording and refine the language in some sections of this assignment. All project ideas, sketches, and visual concepts are my own.
-
----
-
 # Final Thoughts
 This project reinforced how important it is to design with a specific audience and purpose in mind. I learned that simplifying visual information is usually more effective than trying to show everything at once, especially for stakeholders who need to interpret data quickly. If I had more time, I would explore adding an interactive element where planners could filter by facility type or simulate future flood scenarios. 
 
@@ -60,3 +55,40 @@ Looking back, I’m very pleased with how this story evolved. Finding the right 
 
 ---
 
+## AI Acknowledgements
+I used AI to help me brainstorm wording and refine the language in some sections of this assignment. All project ideas, sketches, and visual concepts are my own.
+
+---
+## References & Citations
+
+Bravo, L. (2017). *Panoramic photography of Brooklyn Bridge* [Photograph]. Unsplash.  
+https://unsplash.com/photos/panoramic-photography-of-brooklyn-bridge-_QdFx92MO2U  
+
+Domas, E. (2019). *Untitled* [Photograph]. Unsplash.  
+https://unsplash.com/id/foto/cakrawala-kota-dekat-air-laut-AtQeGdQzXQ8  
+
+Getty Images. (2024). *Aerial View of Buildings in Manhattan at Night / NYC* [Photograph]. Unsplash.  
+https://unsplash.com/photos/aerial-view-of-buildings-in-manhattan-at-night-nyc-xjb6IQqHN84  
+
+New York City Department of City Planning. (2016). *Flood Risk in NYC* [Report]. NYC.gov.  
+https://www.nyc.gov/assets/planning/download/pdf/plans-studies/climate-resiliency/flood-risk-nyc-info-brief.pdf  
+
+Pahade, A. (2025). *Untitled* [Photograph]. Unsplash.  
+https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-chuISVgHji4  
+
+Sikkema, K. (2017). *Traffic light sign underwater* [Photograph]. Unsplash.  
+https://unsplash.com/photos/traffic-light-sign-underwater-_whs7FPfkwQ  
+
+Surico, J., & Underwood, N. (2025, October 15). *What New York Can Do to Survive Flooding*. The New York Times.  
+https://www.nytimes.com/interactive/2025/10/15/nyregion/new-york-climate-flooding-solutions.html  
+
+Turgeon, C. (2021). *Untitled* [Photograph]. Unsplash.  
+https://unsplash.com/photos/people-walking-on-park-near-high-rise-buildings-during-daytime-AUmq5VsgL3g  
+
+Untitled [Photograph]. Freepik.  
+https://www.freepik.com/free-photo/air-polluted-city-monotone-landscape-photography_15665644.htm#fromView=keyword&page=1&position=6&uuid=1866e19e-f1f9-46e1-bd62-2d48656242a4&query=32+hazy+cityscape+shot  
+
+Wolbert, A. (2020). *Untitled* [Photograph]. Unsplash.  
+https://unsplash.com/it/foto/una-vista-dello-skyline-di-una-citta-dallacqua-zreHGxdZWrQ  
+
+---
