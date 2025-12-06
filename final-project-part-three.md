@@ -73,6 +73,12 @@ https://unsplash.com/photos/aerial-view-of-buildings-in-manhattan-at-night-nyc-x
 New York City Department of City Planning. (2016). *Flood Risk in NYC* [Report]. NYC.gov.  
 https://www.nyc.gov/assets/planning/download/pdf/plans-studies/climate-resiliency/flood-risk-nyc-info-brief.pdf  
 
+NYC Open Data. (2024). *Facilities Database – Shapefile* [Dataset].  
+https://data.cityofnewyork.us/City-Government/Facilities-Database-Shapefile/2fpa-bnsx  
+
+NYC Open Data. (2024). *New York City’s Flood Vulnerability Index* [Dataset].  
+https://data.cityofnewyork.us/Environment/New-York-City-s-Flood-Vulnerability-Index/mrjc-v9pm/about_data  
+
 Pahade, A. (2025). *Untitled* [Photograph]. Unsplash.  
 https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-next-to-tall-buildings-chuISVgHji4  
 
